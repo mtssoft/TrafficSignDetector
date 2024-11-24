@@ -1,0 +1,37 @@
+# Python cache dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Sanal ortam (venv) klasörü
+.venv/
+
+# Veri setleri (örneğin, 'data' klasörü)
+data/
+*.csv
+*.json
+
+# IntelliJ IDEA proje dosyaları
+.idea/
+*.iml
+
+# Modelleri içeren klasör
+models/
+
+# notebook dosyalarını içeren klasör
+notebooks/
+
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Çıktı dosyaları
+*.log
+*.out
+*.tmp
+
+# Diğer
+.env
